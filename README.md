@@ -131,12 +131,3 @@ Assisted in building an eCommerce website on WordPress, from theme customization
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasfiatasnim18/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://tasfiatasnim18.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tasfia.tasnim508@gmail.com)
-
-
-
-Other Projects
-Bangladesh-news-sentiment-forecast — Scrapes monthly Bangladeshi news headlines and predicts overall, economic, crime, and political sentiment using NLP and word cloud visualizations. Python BeautifulSoup4 NLTK
-Excel-Sales-Dashboard — Interactive sales dashboard built with Excel Pivot Tables, Charts, and Conditional Formatting.
-AgriVet — Early static multi-page HTML/CSS/JS prototype for a veterinary/agriculture service site.
-tasfia_tasnim_portfolio_website — Earlier static personal portfolio, superseded by the current live portfolio linked above.
-<br>

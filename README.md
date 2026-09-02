@@ -8,7 +8,7 @@ I build full-stack web systems and enjoy pairing clean frontend/backend engineer
 
 [![GitHub](https://img.shields.io/badge/GitHub-tasfiatasnim18-181717?style=flat-square&logo=github)](https://github.com/tasfiatasnim18)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tasfiatasnim18/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=flat-square&logo=vercel)](https://tasfiatasnim18.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=flat-square&logo=vercel)](https://tasfiatasnim18.github.io/Tasfia-Tasnim-Portfolio/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tasfia.tasnim508@gmail.com)
 
 </div>
@@ -90,7 +90,7 @@ Developed responsive websites with a focus on modern UI design and performance.
 
 **Tech:** `HTML` `CSS` `JavaScript` `Responsive Design`
 
-<!-- Live site link pending — add href once available -->
+[`Live Website`](https://www.themediaembassy.com)<!-- Live site link pending — add href once available -->
 
 ---
 
@@ -103,7 +103,7 @@ Assisted in building an eCommerce website on WordPress, from theme customization
 
 **Tech:** `WordPress` `bKash Payment Gateway` `Theme Customization`
 
-<!-- Live site link pending — add href once available -->
+[`Live Website`](https://www.gadgetghorbd.com/)<!-- Live site link pending — add href once available -->
 
 <br>
 

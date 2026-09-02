@@ -90,7 +90,7 @@ Developed responsive websites with a focus on modern UI design and performance.
 
 **Tech:** `HTML` `CSS` `JavaScript` `Responsive Design`
 
-[`Live Website`](https://www.themediaembassy.com)<!-- Live site link pending — add href once available -->
+[Live Website](https://www.themediaembassy.com)<!-- Live site link pending — add href once available -->
 
 ---
 
@@ -103,7 +103,7 @@ Assisted in building an eCommerce website on WordPress, from theme customization
 
 **Tech:** `WordPress` `bKash Payment Gateway` `Theme Customization`
 
-[`Live Website`](https://www.gadgetghorbd.com/)<!-- Live site link pending — add href once available -->
+[Live Website](https://www.gadgetghorbd.com/)<!-- Live site link pending — add href once available -->
 
 <br>
 

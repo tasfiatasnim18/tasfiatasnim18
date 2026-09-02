@@ -116,7 +116,11 @@ Assisted in building an eCommerce website on WordPress, from theme customization
 
 <br>
 
-🧩 Areas of Interest
+---
+
+## 🧩 Areas of Interest
+
+```text
 Web Development
     ├── Responsive Websites
     ├── Business Websites
@@ -134,30 +138,46 @@ Data
     ├── Sentiment Analysis
     ├── Forecasting
     └── Dashboard & Visualization
-📌 Currently Building
+```
+
+---
+
+## 📌 Currently Building
 
 I'm continuously working on projects that combine:
 
-Web Development + AI + Automation + Real-world Problem Solving
+**Web Development + AI + Automation + Real-world Problem Solving**
 
 I’m particularly interested in building software that is not only technically interesting, but also genuinely useful to people and businesses.
 
-🌐 Find Me Online
+---
 
-<p align="left"> <a href="https://tasfiatasnim18.github.io/Tasfia-Tasnim-Portfolio/"> <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge" alt="Portfolio"> </a> </p>
+## 🌐 Find Me Online
 
-🤝 Let's Build Something Useful
+<p align="left">
+  <a href="https://tasfiatasnim18.github.io/Tasfia-Tasnim-Portfolio/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge" alt="Portfolio">
+  </a>
+</p>
+
+---
+
+## 🤝 Let's Build Something Useful
 
 I'm open to opportunities involving:
 
-Web Development
-Full-Stack Development
-WordPress & E-commerce
-AI/ML Applications
-Automation
-Data-driven Applications
-Freelance & Professional Projects
+* Web Development
+* Full-Stack Development
+* WordPress & E-commerce
+* AI/ML Applications
+* Automation
+* Data-driven Applications
+* Freelance & Professional Projects
 
 If you're working on an interesting problem, feel free to connect.
 
-<p align="center"> <b>Build. Learn. Improve. Repeat.</b> </p>
+---
+
+<p align="center">
+  <b>Build. Learn. Improve. Repeat.</b>
+</p>

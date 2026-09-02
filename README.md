@@ -116,8 +116,48 @@ Assisted in building an eCommerce website on WordPress, from theme customization
 
 <br>
 
-## Connect With Me
+🧩 Areas of Interest
+Web Development
+    ├── Responsive Websites
+    ├── Business Websites
+    ├── E-commerce
+    └── WordPress Development
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasfiatasnim18/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://tasfiatasnim18.github.io/Tasfia-Tasnim-Portfolio/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tasfia.tasnim508@gmail.com)
+Artificial Intelligence
+    ├── Machine Learning
+    ├── Natural Language Processing
+    ├── OCR
+    └── Intelligent Decision Support
+
+Data
+    ├── Data Analysis
+    ├── Sentiment Analysis
+    ├── Forecasting
+    └── Dashboard & Visualization
+📌 Currently Building
+
+I'm continuously working on projects that combine:
+
+Web Development + AI + Automation + Real-world Problem Solving
+
+I’m particularly interested in building software that is not only technically interesting, but also genuinely useful to people and businesses.
+
+🌐 Find Me Online
+
+<p align="left"> <a href="https://tasfiatasnim18.github.io/Tasfia-Tasnim-Portfolio/"> <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge" alt="Portfolio"> </a> </p>
+
+🤝 Let's Build Something Useful
+
+I'm open to opportunities involving:
+
+Web Development
+Full-Stack Development
+WordPress & E-commerce
+AI/ML Applications
+Automation
+Data-driven Applications
+Freelance & Professional Projects
+
+If you're working on an interesting problem, feel free to connect.
+
+<p align="center"> <b>Build. Learn. Improve. Repeat.</b> </p>

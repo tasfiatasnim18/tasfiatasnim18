@@ -81,27 +81,38 @@ Final-year thesis project — an end-to-end platform for automated prescription 
 
 ---
 
-### 📰 Bangladesh News Sentiment Forecast
-Scrapes monthly headlines from major Bangladeshi newspapers and predicts overall, economic, crime, and political sentiment, with topic-level word cloud visualizations.
+### 🌐 Frontend Developer (Freelance) — The Media Embassy, USA (Remote)
+Developed responsive websites with a focus on modern UI design and performance.
 
-- Automated **web scraping** pipeline (`requests`, `BeautifulSoup4`) across two newspaper sources
-- NLP preprocessing and sentiment scoring with **NLTK**
-- Topic-level sentiment breakdown (economy / crime / politics) plus word cloud visualization with `matplotlib`/`wordcloud`
+- Built responsive layouts using **HTML, CSS, and JavaScript**
+- Fixed layout issues and ensured **cross-browser compatibility** across devices
+- Improved overall user experience through UI refinement
 
-**Tech:** `Python` `BeautifulSoup4` `NLTK` `Matplotlib` `WordCloud`
+**Tech:** `HTML` `CSS` `JavaScript` `Responsive Design`
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/tasfiatasnim18/Bangladesh-news-sentiment-forecast)
+<!-- Live site link pending — add href once available -->
+
+---
+
+### 🛍️ WordPress Website Developer (Freelance) — Gadget Ghor BD, Dhaka
+Assisted in building an eCommerce website on WordPress, from theme customization to payment integration.
+
+- Customized **WordPress** themes and layouts for an eCommerce storefront
+- Integrated the **bKash payment gateway**
+- Supported testing and deployment for smooth functionality
+
+**Tech:** `WordPress` `bKash Payment Gateway` `Theme Customization`
+
+<!-- Live site link pending — add href once available -->
 
 <br>
 
-<details>
-<summary><strong>Other Projects</strong></summary>
-<br>
+## Other Projects
 
+- **[Bangladesh-news-sentiment-forecast](https://github.com/tasfiatasnim18/Bangladesh-news-sentiment-forecast)** — Scrapes monthly Bangladeshi news headlines and predicts overall, economic, crime, and political sentiment using NLP and word cloud visualizations. `Python` `BeautifulSoup4` `NLTK`
 - **[Excel-Sales-Dashboard](https://github.com/tasfiatasnim18/Excel-Sales-Dashboard)** — Interactive sales dashboard built with Excel Pivot Tables, Charts, and Conditional Formatting.
 - **[AgriVet](https://github.com/tasfiatasnim18/AgriVet)** — Early static multi-page HTML/CSS/JS prototype for a veterinary/agriculture service site.
-
-</details>
+- **[tasfia_tasnim_portfolio_website](https://github.com/tasfiatasnim18/tasfia_tasnim_portfolio_website)** — Earlier static personal portfolio, superseded by the current live portfolio linked above.
 
 <br>
 

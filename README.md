@@ -115,12 +115,7 @@ Assisted in building an eCommerce website on WordPress, from theme customization
 - **[tasfia_tasnim_portfolio_website](https://github.com/tasfiatasnim18/tasfia_tasnim_portfolio_website)** — Earlier static personal portfolio, superseded by the current live portfolio linked above.
 
 <br>
-<!----
-## GitHub Stats
----->
-<!----
-  <div align="center">
----->
+
 
 ![Tasfia's GitHub stats](https://github-readme-stats.vercel.app/api?username=tasfiatasnim18&show_icons=true&theme=default&hide_title=true)
 

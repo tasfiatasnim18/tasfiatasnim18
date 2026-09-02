@@ -116,13 +116,6 @@ Assisted in building an eCommerce website on WordPress, from theme customization
 
 <br>
 
-
-![Tasfia's GitHub stats](https://github-readme-stats.vercel.app/api?username=tasfiatasnim18&show_icons=true&theme=default&hide_title=true)
-
-</div>
-
-<br>
-
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasfiatasnim18/)
